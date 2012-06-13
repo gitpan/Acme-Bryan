@@ -10,11 +10,11 @@ Acme::Bryan - The great new Acme::Bryan!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.02_01';
 
 
 =head1 SYNOPSIS
@@ -51,7 +51,7 @@ sub function2 {
 
 =head1 AUTHOR
 
-Bryan Smith, C<< <bryanesmith at gmail.com> >>
+Bryan Smith, C<< <bryan at cpan.org> >>
 
 =head1 BUGS
 
